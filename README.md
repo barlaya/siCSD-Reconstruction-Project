@@ -1,4 +1,4 @@
-# siCSD-estimation-single-cell-inverse-current-source-density-
+# siCSD-Reconstruction-Project
 
 Although electrophysiologists have been routinely recording intracellular neural activity ever since the groundbreaking work of Hodgkin and Huxley, and extracellular multi-channel electrodes are also frequently and extensively used, a practical experimental method to track multiple intracellular membrane potential changes along a complete single neuron is still lacking.
 
