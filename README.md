@@ -8,4 +8,4 @@ Moreover, the reconstruction of membrane potential allows for distinguishing bet
 
 We validate our model-based reconstruction approach on **simulations** and demonstrate its application to experimental data using **paired extracellular and intracellular **recordings from a single pyramidal cell of the rat hippocampus, in vitro.
 
-In perspective, the estimation of the spatial distribution of resistive membrane currents makes possible the **distinction between active and passive sinks and sources** of the CSD map and the **localization of the synaptic input currents**, which makes the neuron fire.
+In perspective, the estimation of the spatial distribution of resistive membrane currents makes possible the **distinction between active and passive sinks and sources** of the CSD map and the **localization of the synaptic input currents**, which make the neuron fire.
