@@ -1,6 +1,7 @@
 # siCSD-Reconstruction-Project
 
 Author contribution: Domokos Meszena, Anna Barlay, Kristof Furuglyas, Peter Boldog, Zoltan Somogyvari
+
 Although electrophysiologists have been routinely recording intracellular neural activity ever since the groundbreaking work of Hodgkin and Huxley, and extracellular multi-channel electrodes are also frequently and extensively used, a practical experimental method to track multiple intracellular membrane potential changes along a complete single neuron is still lacking.
 
 Instead of obtaining multiple intracellular measurement on the same neuron, we propose an alternative method by **combining single-channel somatic patch-clamp** and **multi-channel extracellular potential recordings**. We show that it is possible to reconstruct the **complete spatio-temporal distribution of the intracellular membrane potential** of a single neuron with a spatial resolution of the extracellular probe during action potential generation.
